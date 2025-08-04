@@ -1,5 +1,5 @@
 import Koogle from "./Koogle/Koogle";
-import TailwindPractice from "./TailwindPractice";
+import TailwindPractice from "./TailwindPractice/TailwindPractice";
 const App = () => {
 
   return (
