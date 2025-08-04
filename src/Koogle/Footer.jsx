@@ -12,7 +12,7 @@ const Footer = () => {
           Tailwind css
         </a>
       </div>
-      <div className="mr-4">Create By Pier Y</div>
+      <div className="mr-4">Created By Pier Y</div>
     </div>
   );
 };

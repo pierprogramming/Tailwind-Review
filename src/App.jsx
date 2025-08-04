@@ -4,8 +4,8 @@ const App = () => {
 
   return (
     <div>
-      {/* <TailwindPractice /> */}
-      <Koogle />
+      <TailwindPractice />
+      {/* <Koogle /> */}
     </div>
   );
 };
